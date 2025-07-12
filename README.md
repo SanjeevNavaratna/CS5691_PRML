@@ -46,7 +46,7 @@ These topics are explored through theoretical lectures and hands-on programming 
 ## 📁 Contents
 
 ### 1. Assignment1
-- **Notebook**: `ProgAssmt1_student.ipynb`
+- **Notebook**: `ASSIGNMENT1_PRML.ipynb`
 - **Datasets**:
   - `LassoReg_data.npz`
   - `dataset1_1.npz`, `dataset1_2.npz`, `dataset1_3.npz`
@@ -55,7 +55,7 @@ These topics are explored through theoretical lectures and hands-on programming 
   - `dataset_A.npz`, `dataset_B.npz`, `dataset_C.npz`, `dataset_D.npz`
 
 ### 2. Assignment3
-- **Notebook**: `Prog_ass_3_student.ipynb`
+- **Notebook**: `Assignment2_PRML.ipynb`
 - **Datasets**:
   - `Dataset_A.npy`, `Dataset_B.npy`, `Dataset_C.npy`
 
